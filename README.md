@@ -29,3 +29,4 @@ DESCRIPTION OF THE CONTENT of folder "CVErizer_replication_package":
     b) "README.txt" which contains some informations about the CVErizer tool  
     c) "lib" folder, which contains all the java libraries needed for running CVErizer   
     d) "CVErizer.sh" to automatize the execution of the tool under UNIX systems  
+    e) "CVErizer.bat" to automatize the execution of the tool under Windows systems
